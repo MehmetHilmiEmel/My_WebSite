@@ -1,12 +1,12 @@
 export default [
-    {
-        name: "room",
-        type: "glbModel",
-        path: "/models/Finale Version 16.glb",
-    },
-    {
-        name: "screen",
-        type: "videoTexture",
-        path: "/textures/kda.mp4",
-    },
+  {
+    name: "room",
+    type: "glbModel",
+    path: "models/hilmi_son.glb",
+  },
+  {
+    name: "screen",
+    type: "videoTexture",
+    path: "textures/fragmanlow.mp4",
+  },
 ];
