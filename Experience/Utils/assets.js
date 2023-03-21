@@ -7,6 +7,6 @@ export default [
   {
     name: "screen",
     type: "videoTexture",
-    path: "textures/fragmanlow.mp4",
+    path: "",
   },
 ];
